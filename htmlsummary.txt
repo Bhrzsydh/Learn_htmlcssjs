@@ -59,5 +59,11 @@ HTML comment
 
 HTML rgb
 <p style="background-color:rgb(r,g,b)">
+
 HTML hex
 <p style="color:#ababab">
+
+HTML hsl & hsla
+<p style="color:hsl(hue,saturation,light)">
+--alpha (a) is transparency
+
