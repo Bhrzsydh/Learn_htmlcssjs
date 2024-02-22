@@ -31,4 +31,33 @@ format[<tagname style="property:value;">]
 -text size
 --<h1 style="font-size:300%;">
 -text alignment
---
+--<h1 style="text-align:center;">
+
+HTML formatting
+format[<form></form>]
+    <b> - Bold text
+    <strong> - Important text
+    <i> - Italic text
+    <em> - Emphasized text
+    <mark> - Marked text
+    <small> - Smaller text
+    <del> - Deleted text
+    <ins> - Inserted text
+    <sub> - Subscript text
+    <sup> - Superscript text
+
+HTML Quot and citas
+<abbr> 	Defines an abbreviation or acronym
+<address> 	Defines contact information for the author/owner of a document
+<bdo> 	Defines the text direction
+<blockquote> 	Defines a section that is quoted from another source
+<cite> 	Defines the title of a work
+<q> 	Defines a short inline quotation
+
+HTML comment
+- "<!-- Write your comments here -->"
+
+HTML rgb
+<p style="background-color:rgb(r,g,b)">
+HTML hex
+<p style="color:#ababab">
